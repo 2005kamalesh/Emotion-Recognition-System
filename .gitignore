@@ -1,0 +1,9 @@
+# Ignore dataset folder with audio files
+data/
+
+# (Optional) Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# (Optional) Ignore temporary files
+*.pyc
+__pycache__/
